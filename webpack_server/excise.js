@@ -14,3 +14,24 @@
 // + tìm hiểu localStorage,
 // + localStorage là async function hay sync function ?
 // + localStorage có những hàm hào, tác dụng của nó
+
+// Typescript Data types
+// 1. Number Types
+// 2. String Types
+// 3. Boolean Types
+// 4. Enum Types
+// 5. Void Types
+// 6. Null Types
+// 7. Undefined Types
+// 8. Any Types
+// 9. Never Types
+// 10. Array Types
+// 11. Tuple Types
+// 12. Object
+
+// Type by user definition
+// 1. Type
+// 2. Union Type
+// 3. Interface
+// 4. Class
+// Type assertions #
